@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Native where a FlatList component intermittently renders an empty list even when the API call is successful and data is correctly retrieved.  The issue is not consistently reproducible, making debugging challenging.  This example provides the buggy code and a potential solution.
